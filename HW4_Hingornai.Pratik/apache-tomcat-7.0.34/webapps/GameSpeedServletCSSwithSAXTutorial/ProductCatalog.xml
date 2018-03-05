@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+<SmartPhoneCatalog>
+    <smartphone id="s8">
+        <name>S8</name>
+        <price>899.99</price>
+        <image>s8.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>s8_wc</accessory>
+            <accessory>s8_sh</accessory>
+        </accessories>
+    </smartphone>
+    <smartphone id="pixel">
+        <name>Pixel</name>
+        <price>699.99</price>
+        <image>pixel.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>pixel_wc</accessory>
+            <accessory>pixel_sh</accessory>
+        </accessories>
+    </smartphone>
+
+    <smartphone id="G8">
+        <name>G8</name>
+        <price>549.99</price>
+        <image>g8.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>lg_wc</accessory>
+			<accessory>ps3_wc</accessory>
+        </accessories>
+    </smartphone>
+    <smartphone id="potato">
+        <name>potato</name>
+        <price>1.00</price>
+        <image>ps3.jpg</image>
+        <manufacturer>Nature</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>potato_wc</accessory>
+			<accessory>potato_wc</accessory>
+        </accessories>
+    </smartphone>
+    <smartphone id="iphone">
+        <name>iPhone</name>
+        <price>1000.00</price>
+        <image>iphone.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>apple_wc</accessory>
+            <accessory>apple_sh</accessory>
+        </accessories>
+    </smartphone>
+</SmartPhoneCatalog>
+
+<TabletCatalog>
+    <tablet id="ipad">
+        <name>Apple Ipad Pro</name>
+        <price>189.99</price>
+        <image>apple1.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="ipad3">
+        <name>Apple Ipad 3</name>
+        <price>189.99</price>
+        <image>apple2.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Used</condition>
+        <discount>20.0</discount>
+    </tablet>
+    <tablet id="Surface">
+        <name>Surface</name>
+        <price>299.99</price>
+        <image>m1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Surface4">
+        <name>Surface Pro 4</name>
+        <price>299.99</price>
+        <image>m2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung2">
+        <name>Samsung Tab 2</name>
+        <price>150.99</price>
+        <image>s1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+</TabletCatalog>
+<LaptopCatalog>
+<laptop id="xps">
+        <name>xps 13</name>
+        <price>999.99</price>
+        <image>xps.jpg</image>
+        <manufacturer>Dell</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="macbook">
+        <name>MacBook</name>
+        <price>1299.99</price>
+        <image>macbook.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="tomato">
+        <name>Tomato</name>
+        <price>50.99</price>
+        <image>tomato.jpg</image>
+        <manufacturer>Nature</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+<laptop id="envy">
+        <name>HP Envy</name>
+        <price>50.99</price>
+        <image>envy.jpg</image>
+        <manufacturer>HP</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</laptop>
+</LaptopCatalog>
+
+<TVCatalog>
+
+    <tv id="vd13">
+        <name>Samsung Smart vd13</name>
+        <price>89.99</price>
+        <image>samsung.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+
+    <tv id="dr14">
+        <name>LG Smart dr14</name>
+        <price>89.99</price>
+        <image>LGTV.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+
+    <tv id="v1">
+        <name>Vizio v1</name>
+        <price>89.99</price>
+        <image>vizio.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+
+    <tv id="toshiba 43">
+        <name>Toshiba 43"</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Toshiba</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv>
+
+    <tv id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>Toshiba.jpg</image>
+        <manufacturer>Toshiba</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </tv> 
+
+</TVCatalog>
+
+</ProductCatalog>

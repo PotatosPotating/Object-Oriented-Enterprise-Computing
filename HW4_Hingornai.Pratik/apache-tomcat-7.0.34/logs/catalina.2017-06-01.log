@@ -1,0 +1,132 @@
+Jun 01, 2017 2:29:41 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\app\potato\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\Downloads\php-7.0.13-Win32-VC14-x86;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\apache-ant-1.10.0\bin;C:\apache-maven-3.3.9\bin;C:\groovy-2.4.7\bin;C:\gradle-3.3\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\prati\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\AppData\Roaming\Composer\vendor\bin;;.
+Jun 01, 2017 2:29:43 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-800"]
+Jun 01, 2017 2:29:43 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2017 2:29:43 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 2780 ms
+Jun 01, 2017 2:29:43 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 01, 2017 2:29:43 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.34
+Jun 01, 2017 2:29:43 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\docs
+Jun 01, 2017 2:29:44 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [223] milliseconds.
+Jun 01, 2017 2:29:44 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\examples
+Jun 01, 2017 2:29:45 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\GameSpeedServletCSSwithSAXTutorial
+Jun 01, 2017 2:29:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\host-manager
+Jun 01, 2017 2:29:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\manager
+Jun 01, 2017 2:29:47 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\ROOT
+Jun 01, 2017 2:29:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-800"]
+Jun 01, 2017 2:29:47 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2017 2:29:47 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4411 ms
+Jun 01, 2017 2:49:25 AM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;"C:\Program Files\Java\jdk1.8.0_111\bin";D:\app\potato\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\Downloads\php-7.0.13-Win32-VC14-x86;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\apache-ant-1.10.0\bin;C:\apache-maven-3.3.9\bin;C:\groovy-2.4.7\bin;C:\gradle-3.3\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Users\prati\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\AppData\Roaming\Composer\vendor\bin;;.
+Jun 01, 2017 2:49:26 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-800"]
+Jun 01, 2017 2:49:26 AM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2017 2:49:26 AM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1464 ms
+Jun 01, 2017 2:49:26 AM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Jun 01, 2017 2:49:26 AM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.34
+Jun 01, 2017 2:49:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\docs
+Jun 01, 2017 2:49:26 AM org.apache.catalina.util.SessionIdGenerator createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [172] milliseconds.
+Jun 01, 2017 2:49:26 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\examples
+Jun 01, 2017 2:49:27 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\GameSpeedServletCSSwithSAXTutorial
+Jun 01, 2017 2:49:29 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\host-manager
+Jun 01, 2017 2:49:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\manager
+Jun 01, 2017 2:49:30 AM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\ROOT
+Jun 01, 2017 2:49:30 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-800"]
+Jun 01, 2017 2:49:30 AM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Jun 01, 2017 2:49:30 AM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 4309 ms
+Jun 01, 2017 2:54:16 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:54:16 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 2:54:16 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:1, serverValue:81}] to localhost:27017
+Jun 01, 2017 2:54:16 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=2221224}
+Jun 01, 2017 2:54:16 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:2, serverValue:82}] to localhost:27017
+Jun 01, 2017 2:55:20 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:55:20 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:3, serverValue:83}] to localhost:27017
+Jun 01, 2017 2:55:20 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=1854727}
+Jun 01, 2017 2:55:20 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:4, serverValue:84}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:5, serverValue:85}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=3112023}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:6, serverValue:86}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:7, serverValue:87}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=1618663}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:8, serverValue:88}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:9, serverValue:89}] to localhost:27017
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=2046743}
+Jun 01, 2017 2:56:05 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:10, serverValue:90}] to localhost:27017
+Jun 01, 2017 2:58:52 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 2:58:52 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 2:58:52 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:11, serverValue:91}] to localhost:27017
+Jun 01, 2017 2:58:52 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=1079821}
+Jun 01, 2017 2:58:52 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:12, serverValue:92}] to localhost:27017
+Jun 01, 2017 3:00:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+Jun 01, 2017 3:00:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, serverDescriptions=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+Jun 01, 2017 3:00:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:13, serverValue:93}] to localhost:27017
+Jun 01, 2017 3:00:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 4]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=977612}
+Jun 01, 2017 3:00:10 AM com.mongodb.diagnostics.logging.JULLogger log
+INFO: Opened connection [connectionId{localValue:14, serverValue:94}] to localhost:27017

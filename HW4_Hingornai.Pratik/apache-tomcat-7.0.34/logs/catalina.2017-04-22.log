@@ -1,0 +1,30 @@
+Apr 22, 2017 6:00:26 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_111\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;"C:\Program Files\Java\jdk1.8.0_111\bin";D:\app\potato\product\12.1.0\dbhome_1\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\Downloads\php-7.0.13-Win32-VC14-x86;C:\ProgramData\ComposerSetup\bin;C:\Program Files\Java\jdk1.8.0_111\bin;C:\apache-ant-1.10.0\bin;C:\apache-maven-3.3.9\bin;C:\groovy-2.4.7\bin;C:\gradle-3.3\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Users\prati\AppData\Local\Microsoft\WindowsApps;C:\Users\prati\AppData\Roaming\Composer\vendor\bin;.
+Apr 22, 2017 6:00:27 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-80"]
+Apr 22, 2017 6:00:27 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2017 6:00:27 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 727 ms
+Apr 22, 2017 6:00:27 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 22, 2017 6:00:27 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.34
+Apr 22, 2017 6:00:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\docs
+Apr 22, 2017 6:00:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\examples
+Apr 22, 2017 6:00:27 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\GameSpeedServletCSSwithSAXTutorial
+Apr 22, 2017 6:00:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\host-manager
+Apr 22, 2017 6:00:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\manager
+Apr 22, 2017 6:00:28 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.34\webapps\ROOT
+Apr 22, 2017 6:00:29 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-80"]
+Apr 22, 2017 6:00:29 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2017 6:00:29 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1714 ms
